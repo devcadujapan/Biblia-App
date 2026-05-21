@@ -1,0 +1,5 @@
+Esses Atalhos são para executar no PC.
+Biblia-ACF está em PowerShell (.ps1)
+Fechar-Biblia está em Bash (.bat)
+Depois que fechar a janela web do app, clicar no Fechar-Biblia.bat
+Para finalizar o Servidor.
