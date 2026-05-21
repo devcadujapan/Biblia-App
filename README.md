@@ -6,7 +6,6 @@
 
 Aplicativo de leitura da Bíblia Sagrada na versão **Almeida Corrigida Fiel (ACF)**. Desenvolvido com React Native e Expo, com suporte para web.
 
-![Preview](https://via.placeholder.com/800x400?text=App+da+Bíblia+ACF)
 
 ## ✨ Funcionalidades
 
